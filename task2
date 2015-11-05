@@ -1,1 +1,4 @@
-adadsdsd
+if scoreA = scoreB :  
+        print("Tie")
+
+SyntaxError: invalid syntax
