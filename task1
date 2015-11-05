@@ -1,3 +1,6 @@
-print("hello world")
+1.	Which of the following conditions are true, if a is 13 and b is 14?
+a)	a + 1 <= b  
+b)	a + 1 >= b 
+c)	a + 1 != b 
 
-print("solved now")
+c) true
