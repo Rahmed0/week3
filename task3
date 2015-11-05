@@ -1,1 +1,4 @@
-dadadsdsdsdsdsds
+userInput = input("Enter Y to quit.")
+if …
+print("Goodbye")
+
